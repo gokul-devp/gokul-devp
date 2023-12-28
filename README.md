@@ -1,12 +1,12 @@
-![image](https://github.com/gokul-devp/gokul-devp/assets/123050790/fd79cbaf-c131-4d9e-afd1-ac1a04cc800f)
+![image](https://github.com/gokul-devp/gokul-devp/assets/123050790/07806a6e-0d6d-4c22-9e94-97c8ed9cce7e)
+<br><br>
 <h1 align="center">Hi 👋, I'm Gokul Karthick S</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3><br>
+<br>
 <img align="right" alt="coding" width="400"src="https://github.com/gokul-devp/gokul-devp/assets/123050790/7580e1bc-55f0-4f6c-a51f-2d6fbbf1a4dc">
-
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokul-devp&label=Profile%20views&color=0e75b6&style=flat" alt="gokul-devp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul-devp" alt="gokul-devp" /></a> </p>
+<br>
 
 - 🌱 I’m currently learning **mern-stack development**
 
@@ -15,6 +15,9 @@
 - 📫 How to reach me **gokulkarthick4582@gmail.com**
 
 - ⚡ Fun fact **GitHub is home for software projects**
+
+   <br>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokul-devp&show_icons=true&locale=en" alt="gokul-devp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokul-devp&" alt="gokul-devp" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokul-devp" alt="gokul-devp" /></a> </p>
