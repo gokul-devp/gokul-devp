@@ -1,7 +1,7 @@
 ![image](https://github.com/gokul-devp/gokul-devp/assets/123050790/07806a6e-0d6d-4c22-9e94-97c8ed9cce7e)
 <br><br>
 <h1 align="center">Hi 👋, I'm Gokul Karthick S</h1>
-<h3 align="center">A passionate full-stack developer from India</h3><br>
+<h3 align="center">A passionate full-stack developer with a flair for turning ideas into digital reality</h3><br>
 <br>
 <img align="right" alt="coding" width="400"src="https://github.com/gokul-devp/gokul-devp/assets/123050790/7580e1bc-55f0-4f6c-a51f-2d6fbbf1a4dc">
 <br>
